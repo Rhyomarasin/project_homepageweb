@@ -1,0 +1,249 @@
+{
+  "templates": [
+    {
+      "id": "selene",
+      "name": "Selene",
+      "category": "AI SaaS",
+      "price": 129,
+      "currency": "USD",
+      "tag": "new",
+      "image": "/images/templates/selene.jpg",
+      "href": "/templates/selene",
+      "description": "A modern AI SaaS template with sleek dark design"
+    },
+    {
+      "id": "zenna",
+      "name": "Zenna",
+      "category": "Yoga Studio",
+      "price": 129,
+      "currency": "USD",
+      "tag": null,
+      "image": "/images/templates/zenna.jpg",
+      "href": "/templates/zenna",
+      "description": "Elegant yoga studio template with serene aesthetics"
+    },
+    {
+      "id": "traction",
+      "name": "Traction",
+      "category": "SMMA",
+      "price": 129,
+      "currency": "USD",
+      "tag": null,
+      "image": "/images/templates/traction.jpg",
+      "href": "/templates/traction",
+      "description": "Bold marketing agency template built for conversions"
+    },
+    {
+      "id": "cora",
+      "name": "Cora",
+      "category": "Portfolio",
+      "price": 99,
+      "currency": "USD",
+      "tag": null,
+      "image": "/images/templates/cora.jpg",
+      "href": "/templates/cora",
+      "description": "Minimal portfolio template for creatives"
+    },
+    {
+      "id": "koji",
+      "name": "Kōji",
+      "category": "Japanese Restaurant",
+      "price": 99,
+      "currency": "USD",
+      "tag": null,
+      "image": "/images/templates/koji.jpg",
+      "href": "/templates/koji",
+      "description": "Authentic Japanese restaurant template"
+    },
+    {
+      "id": "arise",
+      "name": "Arise",
+      "category": "SaaS",
+      "price": 129,
+      "currency": "USD",
+      "tag": null,
+      "image": "/images/templates/arise.jpg",
+      "href": "/templates/arise",
+      "description": "Professional SaaS landing page template"
+    },
+    {
+      "id": "mellow",
+      "name": "Mellow",
+      "category": "Café & Bakery",
+      "price": 99,
+      "currency": "USD",
+      "tag": null,
+      "image": "/images/templates/mellow.jpg",
+      "href": "/templates/mellow",
+      "description": "Warm and inviting café template"
+    },
+    {
+      "id": "opus",
+      "name": "Opus",
+      "category": "Agency",
+      "price": 129,
+      "currency": "USD",
+      "tag": null,
+      "image": "/images/templates/opus.jpg",
+      "href": "/templates/opus",
+      "description": "Premium agency portfolio template"
+    },
+    {
+      "id": "slate",
+      "name": "Slate",
+      "category": "SaaS",
+      "price": 0,
+      "currency": "USD",
+      "tag": "free",
+      "image": "/images/templates/slate.jpg",
+      "href": "/templates/slate",
+      "description": "Free SaaS starter template"
+    }
+  ],
+  "stats": [
+    { "value": "6+", "label": "Years building sites" },
+    { "value": "2,000+", "label": "Templates sold" },
+    { "value": "5/5", "label": "Template rating" }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Renan",
+      "role": "Browser.supply customer",
+      "review": "Very nice. Intuitive, easy going, good to navigate. Just Awesome!",
+      "avatar": "/images/testimonials/avatar1.jpg",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Emon",
+      "role": "Browser.supply customer",
+      "review": "The best part is it's aesthetically pleasing and business focused.",
+      "avatar": "/images/testimonials/avatar2.jpg",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Widya",
+      "role": "Browser.supply customer",
+      "review": "Beautiful design and is easy to set up! The tutorial helped me a lot.",
+      "avatar": "/images/testimonials/avatar3.jpg",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "role": "Browser.supply customer",
+      "review": "Super easy to use and customise and also beautifully designed.",
+      "avatar": "/images/testimonials/avatar4.jpg",
+      "rating": 5
+    }
+  ],
+  "pricing": [
+    {
+      "id": "single",
+      "title": "Single template",
+      "subtitle": "Perfect for launching one project",
+      "price": 99,
+      "period": "one-time",
+      "features": [
+        "Instant access to chosen template",
+        "Lifetime template updates",
+        "3 months Framer Pro",
+        "Step-by-step video tutorials"
+      ],
+      "cta": "Get started",
+      "highlighted": false
+    },
+    {
+      "id": "bundle",
+      "title": "Bundle",
+      "subtitle": "Best value for multiple projects",
+      "price": 399,
+      "originalPrice": 1881,
+      "period": "one-time",
+      "features": [
+        "All current templates",
+        "Early access to all future templates",
+        "Lifetime template updates",
+        "Use on unlimited sites",
+        "3 months Framer Pro",
+        "Step-by-step video tutorials",
+        "Priority support"
+      ],
+      "cta": "Get the bundle",
+      "highlighted": true,
+      "badge": "Best Value"
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is a Framer template?",
+      "answer": "A Framer template is a pre-designed website that you can customize and publish using Framer — a powerful no-code website builder. Think of it as a professional starting point that saves you weeks of design and development work."
+    },
+    {
+      "id": 2,
+      "question": "Do I need coding skills?",
+      "answer": "No coding skills are required! Framer is a visual website builder that allows you to edit text, images, colors, and layout directly on the canvas. Each template also comes with step-by-step video tutorials to guide you through the customization process."
+    },
+    {
+      "id": 3,
+      "question": "Can I use the template for multiple sites?",
+      "answer": "A single template license allows you to use it on one website. If you need to use templates on multiple sites, the Bundle plan gives you access to all templates with unlimited site usage."
+    },
+    {
+      "id": 4,
+      "question": "Do I get free updates?",
+      "answer": "Yes! All templates come with lifetime updates. Whenever we improve a template or add new features, you'll get access to those updates at no extra cost."
+    },
+    {
+      "id": 5,
+      "question": "What if I need help?",
+      "answer": "Every template includes detailed video tutorials. If you still need help, you can reach out to our support team. Bundle customers get priority support with faster response times."
+    },
+    {
+      "id": 6,
+      "question": "Is Framer free to use?",
+      "answer": "Framer offers a free plan that lets you build and publish a basic website. For custom domains and advanced features, they offer paid plans. All our templates include 3 months of Framer Pro to get you started."
+    }
+  ],
+  "comparison": [
+    {
+      "id": "agency",
+      "label": "Traditional Route",
+      "title": "Web designer / Agency",
+      "description": "Requires deep pockets, weeks of back-and-forth communication, and complex project management.",
+      "priceRange": "$5,000 – $20,000",
+      "highlighted": false
+    },
+    {
+      "id": "template",
+      "label": "Browser.supply",
+      "title": "Framer template",
+      "description": "Easily make edits, customize colors, and swap content so you don't have to start from scratch.",
+      "priceRange": "$99",
+      "priceNote": "Starting at",
+      "highlighted": true
+    }
+  ],
+  "navigation": {
+    "main": [
+      { "label": "Templates", "href": "/templates" },
+      { "label": "Pricing", "href": "#pricing" },
+      { "label": "FAQ", "href": "#faq" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "social": [
+      { "label": "Twitter / X", "href": "https://x.com" },
+      { "label": "Framer", "href": "https://framer.com" }
+    ]
+  },
+  "integrations": [
+    "LemonSqueezy",
+    "PayPal",
+    "Cal.com",
+    "Stripe",
+    "Gumroad"
+  ]
+}
